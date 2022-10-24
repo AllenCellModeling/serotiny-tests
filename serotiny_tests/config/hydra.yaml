@@ -1,4 +1,5 @@
 defaults:
-  - defaults/hydra@_here_
+  - defaults/hydra@hydra
+  - _self_
 
 hydra: {}
